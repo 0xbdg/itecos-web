@@ -66,14 +66,6 @@ header {
     overflow: hidden;
 }
 
-header::before {
-    content: "";
-    position: absolute;
-    inset: 0;
-    background: url('static/img/logo.png') center/300px no-repeat;
-    opacity: 0.06;
-    pointer-events: none;
-}
 
 header .container {
     position: relative;
