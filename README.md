@@ -1,3 +1,3 @@
-# ITEC-OS-WebPage
+# ITEC-OS
 
 
